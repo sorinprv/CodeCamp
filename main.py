@@ -1,4 +1,4 @@
-from list.work import *
+from list.worksheet_list import *
 
 print(f"Counting in a loop:"
       f"{check(counting_in_a_loop_course(), counting_in_a_loop_my())}"
