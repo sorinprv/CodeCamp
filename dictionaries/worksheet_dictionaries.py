@@ -4,18 +4,33 @@ def universal_dict():
 
 
 def universal_str():
-    return " Python is a high-level programming language designed to be easy to read and simple to implement. " \
-           " It is open source, which means it is free to use, even for commercial applications. " \
-           " Python can run on Mac," \
-           " Windows, and Unix systems and has also been ported to Java and .NET virtual machines. " \
-           " Your welcome fellow coder :) " \
-           " Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python " \
-           " Python is a high-level programming language designed to be easy to read and simple to implement. " \
-           " It is open source, which means it is free to use, even for commercial applications. " \
-           " Python can run on Mac, " \
-           "  Windows, and Unix systems and has also been ported to Java and .NET virtual machines. " \
-           " Your welcome fellow coder :) " \
-           " Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python "
+    return " 1 " \
+           " Maecenas aDFADSFSD@host1 auctor justo eros, vitae sodales dui iaculis vel. Duis placerat interdum ipsum. " \
+           " 2 " \
+           " Pellentesque ultrices consequat dolor, nec tempus libero tempus a. " \
+           " 3 " \
+           " Vestibulum eget tristique magna. " \
+           " 40 " \
+           " Interdum et malesuada fames ac ante ipsum primis in faucibus. " \
+           " 50 " \
+           " Donec varius lectus ligula, in hendrerit lectus ultricies in. " \
+           " 60 " \
+           " Proin eu felis in leo posuere venentis . Pellentesque in auctor turpis, quis dapibus nisi. " \
+           " 70 " \
+           " Donec posuere leo ac dui tempor, FromFromFrom: 156gf56@host2 et congue leo pretium. " \
+           " 80 " \
+           " Quisque dolor ante, auctor quis ultricies eget, porttitor quis turpis. " \
+           " 90 " \
+           " Proin feugiat nulla eget odio congue, quis bibendum sapien mollis. In a lacinia neque. "
+
+
+# def universal_str():
+#     return " Python is a high - level programming language designed to be easy to read and simple to implement. " \
+#            " It is open source , which means it is free to use , even for commercial applications. " \
+#            " Python can run on Mac," \
+#            " Windows, and Unix systems and has also been ported to Java and . posuere venen@tis . " \
+#            "NET virtual machines. Your welcome fellow coder :) " \
+#            " Python Python Python Python Python Python Python Python Python Python Python Python Python Python Python "
 
 
 def dictionaries():
