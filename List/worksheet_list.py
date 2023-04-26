@@ -173,3 +173,11 @@ print(f"Counting in a loop:"
       f"{check(finding_the_average_in_a_loop_course(), finding_the_average_in_a_loop_my())}"
       f"Fast method average:\n"
       f"{fast_method_average()}")
+
+friends = ["Joseph", "Glenn", "Sally"]
+
+for friend in friends:
+    print("Happy New Year:", friend)
+for i in range(len(friends)):
+    friend = friends[i]
+    print(f"\nHappy New Year: {friend}")
