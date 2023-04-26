@@ -1,5 +1,5 @@
-def check(z, y):
-    if z == y:
+def check(first, second):
+    if first == second:
         return "\nCongratulations, both functions have the same answer!!!\n\n"
     else:
         return "\nSomething is wrong :(\n\n"
