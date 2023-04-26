@@ -1,6 +1,6 @@
 import re
 
-from dictionaries.worksheet_dictionaries import universal_str
+from Dictionaries.worksheet_dictionaries import universal_str
 
 
 def matching_str1():

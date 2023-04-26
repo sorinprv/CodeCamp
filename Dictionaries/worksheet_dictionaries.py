@@ -43,7 +43,7 @@ def dictionaries():
     return counts
 
 
-# print(dictionaries())
+# print(Dictionaries())
 
 
 def dictionaries_get():
@@ -54,7 +54,7 @@ def dictionaries_get():
 
 
 # print(dictionaries_get())
-# print(check(dictionaries(), dictionaries_get()))
+# print(check(Dictionaries(), dictionaries_get()))
 
 
 def loops_dict1():

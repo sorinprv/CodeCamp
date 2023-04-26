@@ -1,4 +1,4 @@
-from dictionaries.worksheet_dictionaries import universal_str
+from Dictionaries.worksheet_dictionaries import universal_str
 
 
 def universal_dict():
@@ -39,7 +39,7 @@ def using_sorted():
     list = []
     for k, v in universal_dict().items():
         list.append((v, k))
-    # print(list)
+    # print(List)
     list = sorted(list, reverse=True)
     return list
 
