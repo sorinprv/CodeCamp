@@ -54,13 +54,14 @@ def regex2():
     y = re.findall('From .*@([^ ]*)', universal_str())
     return y
 
-# print(f"{matching_str1()}\n"
-#       f"{matching_str2()}\n"
-#       f"{matching_str3()}\n"
-#       f"{matching_str4()}\n"
-#       f"{matching_str5()}\n"
-#       f"{matching_str6()}\n"
-#       f"{matching_number()}\n"
-#       f"{duble_split()}\n"
-#       f"{regex1()}\n"
-#       f"{regex2()}\n")
+
+print(f"matching_str1:\n{matching_str1()}\n\n"
+      f"matching_str2:\n{matching_str2()}\n\n"
+      f"matching_str3:\n{matching_str3()}\n\n"
+      f"matching_str4:\n{matching_str4()}\n\n"
+      f"matching_str5:\n{matching_str5()}\n\n"
+      f"matching_str6:\n{matching_str6()}\n\n"
+      f"matching_number:\n{matching_number()}\n\n"
+      f"duble split:\n{duble_split()}\n\n"
+      f"regex1:\n{regex1()}\n\n"
+      f"regex2:\n{regex2()}\n\n")
